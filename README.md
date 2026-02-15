@@ -1,10 +1,8 @@
 # Hello World! I am Anuj Sadani 👋
 
-I believe in **People >= Process >= Technology**. If there is a off-balance between them, then I trust on **"Kamehameha"**
+I believe in **People >= Process >= Technology**. If there is an off-balance between them, then I trust on **"Kamehameha"**
 
-
-
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](WFH)
+<img align='center' src="architect-antropy.png" width="100%" alt="Architecting Around Entropy">
 
 <br>
 
@@ -28,95 +26,105 @@ if __name__ == '__main__':
 
 <hr>
 
-### Tool and Technology I can talk about with my broader to limited proficiency
-<p>
-<div style="word-spacing: 20px">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Flask-98b982?style=for-the-badge&logo=flask&logoColor=98b982&labelColor=282828">
-        <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon&logoColor=FF9900&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=282828">
-        <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=CC2927&labelColor=282828">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=282828">
-        <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=005571&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=326CE5&labelColor=282828">
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=Scrum Alliance&logoColor=009FDA&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=F46800&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=632CA6&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF&labelColor=282828">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=282828">
-           <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=005571&labelColor=282828">
+## Technologies & Tools
 
+### Generative AI & LLMs
+
+<p>
+<div style="word-spacing: 15px">
+    <img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+    <img src="https://img.shields.io/badge/RAG%20Pipelines-4ECDC4?style=for-the-badge&logo=vector&logoColor=white" alt="RAG Pipelines">
+    <img src="https://img.shields.io/badge/LLM%20Integration-95E1D3?style=for-the-badge&logo=brain&logoColor=white" alt="LLM Integration">
+    <img src="https://img.shields.io/badge/Agentic%20Frameworks-AA96DA?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic Frameworks">
+    <img src="https://img.shields.io/badge/Vector%20Databases-FFD93D?style=for-the-badge&logo=database&logoColor=black" alt="Vector Databases">
+    <img src="https://img.shields.io/badge/Embeddings-6BCB77?style=for-the-badge&logo=embed&logoColor=white" alt="Embeddings">
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-F38181?style=for-the-badge&logo=text&logoColor=white" alt="Prompt Engineering">
+</div>
+</p>
+
+### Cloud, Architecture & Backend
+
+<p>
+<div style="word-spacing: 15px">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock">
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+    <img src="https://img.shields.io/badge/Microservices-FF6B9D?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge&logo=design&logoColor=white" alt="Design Patterns">
+</div>
+</p>
+
+### DevOps & Observability
+
+<p>
+<div style="word-spacing: 15px">
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo">
+    <img src="https://img.shields.io/badge/ML%20Model%20Automation-FF6B6B?style=for-the-badge&logo=ml&logoColor=white" alt="ML Model Automation">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Automated%20Testing-6BCB77?style=for-the-badge&logo=testing&logoColor=white" alt="Automated Testing">
+</div>
+</p>
+
+### Leadership & Strategy
+
+<p>
+<div style="word-spacing: 15px">
+    <img src="https://img.shields.io/badge/Technical%20Leadership-FF6B6B?style=for-the-badge&logo=leadership&logoColor=white" alt="Technical Leadership">
+    <img src="https://img.shields.io/badge/Team%20Mentorship-4ECDC4?style=for-the-badge&logo=mentorship&logoColor=white" alt="Team Mentorship">
+    <img src="https://img.shields.io/badge/Delivery%20Ownership-95E1D3?style=for-the-badge&logo=delivery&logoColor=white" alt="Delivery Ownership">
+    <img src="https://img.shields.io/badge/Engineering%20Roadmap-AA96DA?style=for-the-badge&logo=roadmap&logoColor=white" alt="Engineering Roadmap">
+    <img src="https://img.shields.io/badge/Stakeholder%20Communication-FFD93D?style=for-the-badge&logo=communication&logoColor=black" alt="Stakeholder Communication">
+    <img src="https://img.shields.io/badge/Cost%20Optimization-6BCB77?style=for-the-badge&logo=optimization&logoColor=white" alt="Cost Optimization">
+    <img src="https://img.shields.io/badge/Product%20Roadmap%20Alignment-F38181?style=for-the-badge&logo=product&logoColor=white" alt="Product Roadmap Alignment">
 </div>
 </p>
 
 <hr>
 
-### Few things I want to do more proactively 
+### Current Focus & Aspirations
 
-- Write some technical/professional blogs.
-- Publish a python package.
-- Learn more about machine learning and AI domain.
-- Complete a few certification.
-
-<hr>
-
-### Few things I have fond of
-
-<table>
-<tr align=center>
-<td>
-<img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" style="width: 80px">
-</td>
-<td>
-<img src="https://media.giphy.com/media/ibvzyMTDAlcsb4Fm2q/giphy.gif" style="width: 80px">
-</td>
-<td>
-<img src="https://media.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif" style="width: 80px">
-</td>
-<td>
-<img src="https://media.giphy.com/media/RKApDdwsQ6jkwd6RNn/giphy.gif" style="width: 80px">
-</td>
-<td>
-<img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" style="width: 80px">
-</td>
-</tr>
-
-<tr>
-<td>
-Programing philosophy
-</td>
-<td>
-Design Thinking
-</td>
-<td>
-Exploring Distant Lands
-</td>
-<td>
-Socializing
-</td>
-<td>
-Memes, gifs and emojis
-</td>
-</tr>
-</table>
+- ✍️ Write technical/professional blogs on GenAI, RAG systems, and architecture patterns
+- 📦 Publish open-source Python packages for AI/ML workflows
+- 🎓 Complete advanced certifications in cloud architecture and AI/ML
+- 🚀 Contribute to open-source AI/ML projects and frameworks
 
 <hr>
 
+### Interests & Passions
 
-### Fun - Fact - Quote
+|                               Programming Philosophy                               |                        Technology Trends                        |                      Product Strategy & Design Thinking                      |                        Exploring Distant Lands                        |                           Socializing                           |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| Clean code principles<br />System design patterns<br />Architecture best practices | GenAI & LLMs<br />Cloud-native solutions<br />MLOps & automation | Product roadmap alignment<br />Design thinking<br />Stakeholder collaboration | Travel & exploration<br />Cultural experiences<br />Chilling with family | Team building<br />Knowledge sharing <br />Community engagement |
 
-> When I wrote the code, Only God and I knew how it worked. Now God Alone Knows!
+<hr>
 
-> `0.1 + 0.2 != 0.3` It's caused by how they are stored in hardware. Read: [Floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
+### Fun Facts & Quotes
 
-> The aim of the wise is not to secure pleasure, but to avoid pain.
+> "When I wrote the code, only God and I knew how it worked. Now God alone knows!" — *The eternal truth of legacy code*
+>
+> `0.1 + 0.2 != 0.3` — It's caused by how they are stored in hardware. Read: [Floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
+>
+> "The aim of the wise is not to secure pleasure, but to avoid pain." — *Aristotle*
+>
+> "Architecting around entropy" — *Managing complexity in distributed systems*
 
 <hr>
 
@@ -124,18 +132,25 @@ Memes, gifs and emojis
 
 <p style="word-spacing: 20px">
     <a href="https://www.linkedin.com/in/anujsadani/">
-        <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=0077B5&labelColor=282828">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/asadani">
-        <img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=282828">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://medium.com/@anuj.sadani">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
     </a>
 </p>
 
 <hr>
 
-<div align=center>
-    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading...</p>
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=asadani&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
-<div style="color:#333333">This is just an gif, nothing is going to be loaded.</div>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadani&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
